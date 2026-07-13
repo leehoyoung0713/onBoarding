@@ -1,0 +1,23 @@
+{
+  "name": "number-baseball",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "vue": "^3.5.39"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "babel-loader": "^9.2.1",
+    "vue-loader": "^17.4.2",
+    "webpack": "^5.108.4",
+    "webpack-cli": "^7.2.1"
+  }
+}
